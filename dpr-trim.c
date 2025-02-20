@@ -1472,7 +1472,7 @@ int onlyDelete (struct solver* S, int begin, int end) {
   return 1; }
 
 void printHelp ( ) {
-  printf ("usage: drat-trim [INPUT] [<PROOF>] [<option> ...]\n\n");
+  printf ("usage: dpr-trim [INPUT] [<PROOF>] [<option> ...]\n\n");
   printf ("where <option> is one of the following\n\n");
   printf ("  -h          print this command line option summary\n");
   printf ("  -c CORE     prints the unsatisfiable core to the file CORE (DIMACS format)\n");
