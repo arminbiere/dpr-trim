@@ -23,7 +23,7 @@ OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWA
 #include <assert.h>
 #include <sys/time.h>
 
-#define TIMEOUT     40000
+#define TIMEOUT     60000
 #define BIGINIT     1000000
 #define INIT        4
 #define END         0
